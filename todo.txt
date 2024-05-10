@@ -1,0 +1,8 @@
+Cpter is a program that manage infomation of computers connected to the host.
+infomation the program get from computers are, for example, cpu tempature, memory usage.
+
+#Designe
+#The systems work in the server-client model.
+
+Computers a user want to manage run server.
+A computer where infomation is sent run client.
